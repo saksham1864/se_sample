@@ -21,9 +21,9 @@ export default function About() {
           />
           <div className="text-lg italic mb-4">
             <p>
-              "I am very helped by this E-wallet application, my days are very
-              easy to use this application, and it's very helpful in my life. I
-              can even pay in a short time 😁."
+              &quot;I am very helped by this E-wallet application, my days are very
+              easy to use this application, and it&aposs very helpful in my life. I
+              can even pay in a short time 😁.&quot;
             </p>
             <span className="block mt-4">— Aria Zinnario</span>
           </div>
