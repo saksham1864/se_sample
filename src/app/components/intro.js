@@ -12,7 +12,7 @@ export default function IntroComponent() {
           </h1>
           <div className="md:flex text-start hidden md:ml-24 mt-16 ">
             <div>
-              {" "}
+              
               <svg
                 width="487"
                 height="34"
