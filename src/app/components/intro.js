@@ -32,7 +32,7 @@ export default function IntroComponent() {
           </div>
 
           <p className="mt-9 text-2xl p-4 md:ml-20 text-left justify-between  text-black">
-            Let's make your work more organize and easily using the Taskio
+            Let&aposs make your work more organize and easily using the Taskio
             Dashboard with many of the latest featuresin managing work every
             day.
           </p>
