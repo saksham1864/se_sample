@@ -8,7 +8,7 @@ export default function IntroComponent() {
         <div className="absolute w-[600px] h-[500px] bg-[#52BDAA] opacity-30 rounded-full blur-[100px] left-[-200px] top-[-100px]"></div>
         <div className="md:w-1/2   p-4 text-left">
           <h1 className="text-7xl md:ml-24 font-bold  text-gray-900">
-            We&aposre here to Increase your Productivity
+            We&apos;re here to Increase your Productivity
           </h1>
           <div className="md:flex text-start hidden md:ml-24 mt-16 ">
             <div>
@@ -32,7 +32,7 @@ export default function IntroComponent() {
           </div>
 
           <p className="mt-9 text-2xl p-4 md:ml-20 text-left justify-between  text-black">
-            Let&aposs make your work more organize and easily using the Taskio
+            Let&apos;s make your work more organize and easily using the Taskio
             Dashboard with many of the latest featuresin managing work every
             day.
           </p>
